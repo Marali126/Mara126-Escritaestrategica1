@@ -1,0 +1,6 @@
+{
+  "name": "Escrita Estratégica SRSD - Mara Daher",
+  "description": "Plataforma interativa de desenvolvimento de escrita baseada no método SRSD (Graham & Harris) para crianças e adolescentes de 9 a 14 anos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
